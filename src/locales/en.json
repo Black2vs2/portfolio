@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "ai": "AI & Tech",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "bio": "Software Development Engineer experienced in building scalable B2B, industrial, and IoT applications.\nProficient in distributed systems, RESTful APIs, and cloud-ready architectures using C# and TypeScript.\nPassionate about performance optimization, maintainable design patterns, and delivering high-quality, reliable software.",
+    "viewWork": "View My Work",
+    "getInTouch": "Get In Touch"
+  },
+  "about": {
+    "title": "About Me"
+  },
+  "experience": {
+    "title": "Experience"
+  },
+  "ai": {
+    "title": "AI & Modern Development",
+    "description": "Staying at the forefront of AI-powered development, leveraging cutting-edge tools and building custom AI solutions to enhance productivity and create innovative applications.",
+    "toolsTitle": "AI Tools & Platforms",
+    "projectsTitle": "AI Projects & Innovations",
+    "projects": {
+      "mcp": {
+        "title": "Custom MCP Development",
+        "description": "Built custom Model Context Protocol for updating NPM packages in outdated projects, automating the trial and error process of testing linked packages with different versions and compatibility constraints."
+      },
+      "vision": {
+        "title": "AI Visual Recognition",
+        "description": "Developed AI-powered visual recognition systems using Supervision, TorchVision, and YOLO for image analysis, object detection, and automated visual content processing."
+      }
+    },
+    "cta": "Always exploring new AI technologies to push the boundaries of what's possible in software development."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "A collection of projects I've worked on, ranging from open-source contributions to proprietary applications.",
+    "all": "All Projects",
+    "opensource": "Open Source",
+    "private": "Private",
+    "noProjects": "No projects found in this category.",
+    "viewCode": "View Code",
+    "private_badge": "Private"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a question or want to work together? Feel free to reach out!",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Email sent successfully!",
+    "connectWith": "or connect with me on",
+    "emailPlaceholder": "your.email@example.com",
+    "subjectPlaceholder": "What's this about?",
+    "messagePlaceholder": "Your message..."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "All rights reserved."
+  },
+  "projectDescriptions": {
+    "iotAutomation": "A lightweight React web application for controlling IoT devices, optimized to run directly from Arduino-based devices with RESTful APIs.",
+    "industrialDashboard": "Web dashboard for monitoring and managing IoT devices in industrial environments, featuring real-time updates and data visualization.",
+    "whatsappBackend": "Backend service integrating WhatsApp Business Cloud API with secure messaging, CQRS, and background processing via Hangfire.",
+    "tabletopGame": "Fully playable board game built with C++ and Lua in the Tabletop Simulator editor, developed under tight deadlines."
+  },
+  "experiences": {
+    "zupit": {
+      "description": [
+        "Designed and implemented scalable RESTful APIs for B2B applications ensuring high performance and reliability.",
+        "Developed frontends with Angular and Vue.js with focus on responsive and user-friendly design.",
+        "Delivered cross-platform mobile apps with Ionic Angular ensuring consistent functionality.",
+        "Deployed containerized applications with Docker, Portainer, and Traefik, and automated CI/CD pipelines with GitHub Workflows.",
+        "Optimized database queries for MySQL improving performance and scalability.",
+        "Built AI visual recognition systems using Python with Supervision, TorchVision, and YOLO for object detection and image analysis."
+      ]
+    },
+    "eurointerim": {
+      "description": [
+        "Developed a production-ready REST API integrating WhatsApp Business Cloud API for high-volume messaging.",
+        "Implemented CQRS architecture using MediatR with clean dependency injection and modular services.",
+        "Added WhatsApp Flow capabilities with encrypted request/response handling.",
+        "Managed background jobs with Hangfire backed by SQL Server ensuring reliability and fault tolerance.",
+        "Applied JWT authentication, rate limiting, and structured logging with Serilog."
+      ]
+    },
+    "derga": {
+      "description": [
+        "Built B2B web applications using Node.js, SAPUI5, and React with PostgreSQL and Docker.",
+        "Delivered custom client solutions focusing on reliability, low latency, and high availability.",
+        "Managed on-premise deployments for testing, staging, and production environments.",
+        "Collaborated in agile teams applying design patterns for scalable architectures."
+      ]
+    },
+    "carel": {
+      "description": [
+        "Contributed to a web application managing refrigeration units and cooling systems across facilities.",
+        "Worked across frontend and backend with JavaScript, Java, and Python."
+      ]
+    }
+  }
+}
